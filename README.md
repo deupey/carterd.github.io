@@ -1,2 +1,2 @@
 # carterd.github.io
-Carter Deupree's personal github.io page.
+This is Carter Deupree's personal homepage through github.io.
